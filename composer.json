@@ -10,7 +10,9 @@
         }
     ],
     "autoload": {
-        "LaravelJsonColumn\\" : "src/"
+        "psr-4": {
+            "LaravelJsonColumn\\" : "src/"
+        }
     },
     "minimum-stability": "dev",
     "require": {}
