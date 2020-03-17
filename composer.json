@@ -1,0 +1,17 @@
+{
+    "name": "saqijaan/laravel-json-column-trait",
+    "description": "Access json columns as model attributes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Saqib Ali",
+            "email": "saqib@capwell.nl"
+        }
+    ],
+    "autoload": {
+        "LaravelJsonColumn\\" : "src/"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
